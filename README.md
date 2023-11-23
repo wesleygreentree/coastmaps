@@ -8,7 +8,7 @@
 
 Basemaps currently available in `coastmaps`:
 
-- `nepac`: full-resolution global basemap by [Wessel and Smith](https://www.soest.hawaii.edu/pwessel/gshhg/), cropped to the Pacific coast of British Columbia and Washington, including parts of Alaska and California (useful for broader inset maps showing larger spatial context). `nepac` is the same basemap used by Rowan Haigh's [PBSmapping package](https://cran.r-project.org/web/packages/PBSmapping/index.html). The only difference is that `coastmaps::nepac` is compatible with the `sf` package, without adiditonal geoprocessing by the user.
+- `nepac`: full-resolution global basemap by [Wessel and Smith](https://www.soest.hawaii.edu/pwessel/gshhg/), cropped to the Pacific coast of British Columbia and Washington, including parts of Alaska and California (useful for broader inset maps showing larger spatial context). `nepac` is the same basemap used by Rowan Haigh's [PBSmapping package](https://cran.r-project.org/web/packages/PBSmapping/index.html). The only difference is that `coastmaps::nepac` is compatible with the `sf` package, without additional geoprocessing by the user.
 
 - `hakai`: very high-resolution basemap of the British Columbia coast from the Hakai Institute. The original shapefile is available from this [Hakai GitHub repository](https://github.com/HakaiInstitute/hakai_guide_to_r/tree/master/data).
 
